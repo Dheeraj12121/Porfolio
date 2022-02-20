@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className='bg-[rgba(250,244,255,53.31)]'>
       <Head>
-        <title>Create Next App</title>
+        <title>Dheeraj Kumar</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
