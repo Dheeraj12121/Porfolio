@@ -9,7 +9,7 @@ const Hero = () => {
         <p className="leading-9">
           {/* I'm a software engineer based in New York, NY */}
         </p>
-        <a href="../images/Dheeraj-resume.pdf" download>
+        <a href="https://drive.google.com/file/d/1xTsxILUY-nIvXT8TqE5IDgmei14vj-On/view" download>
         <button className="text-purple-800 bg-purple-300 px-2 rounded-full w-[90px]">
           Resume
         </button>
