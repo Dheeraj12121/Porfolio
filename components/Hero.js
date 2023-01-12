@@ -23,7 +23,7 @@ const Hero = () => {
                 objectFit="responsive"
                 height={187}
                 width={187}
-                src={require("../images/profile.jpg")}
+                src={require("../images/pro.jpg")}
               />
 
               {/* <div className=""> */}
