@@ -13,7 +13,7 @@ const Header = () => {
       </div>
 
       <div className="flex space-x-4  ">
-        <a href="https://www.instagram.com/dheeraj.dk17/">
+        <a href="https://www.instagram.com/dheeraj.dk30/">
           <Image
             objectFit="contain"
             width={49}

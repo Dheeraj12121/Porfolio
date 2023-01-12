@@ -7,11 +7,14 @@ const Hero = () => {
       <div className="grid pl-6 sm:justify-center">
         <h1 className="text-5xl font-bold">Hi,I'm Dheeaj</h1>
         <p className="leading-9">
-          I'm a software engineer based in New York, NY
+          {/* I'm a software engineer based in New York, NY */}
         </p>
+        <a href="https://drive.google.com/file/d/1xTsxILUY-nIvXT8TqE5IDgmei14vj-On/view" download>
         <button className="text-purple-800 bg-purple-300 px-2 rounded-full w-[90px]">
           Resume
         </button>
+        </a>
+        
       </div>
 
       <div className=" flex justify-center ">
